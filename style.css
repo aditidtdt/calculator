@@ -22,7 +22,7 @@ body {
   border-radius: 20px;
 }
 
-.displayScreen {
+.screen {
   border: 3px solid black;
   border-radius: 20px;
   height: 100px;
@@ -86,4 +86,11 @@ a {
 
 a:hover {
   color:#FDB7EA;
+}
+
+.calculation {
+  color: black;
+  font-size: 24px;
+  padding: 12px;
+  text-align:end;
 }
